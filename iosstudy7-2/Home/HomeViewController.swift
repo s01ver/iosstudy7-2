@@ -2,7 +2,7 @@
 //  HomeViewController.swift
 //  iosstudy7-2
 //
-//
+//  7주차 미션
 //
 
 import UIKit
